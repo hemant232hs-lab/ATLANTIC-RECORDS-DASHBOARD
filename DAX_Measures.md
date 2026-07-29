@@ -1,6 +1,6 @@
 # DAX Measures Documentation
 
-This document contains all DAX measures used in the Power BI dashboard for the `atlantic_music_data` dataset.
+This document contains all DAX measures used in the Power BI dashboard for the `atlantic_united_states` dataset.
 
 ---
 
