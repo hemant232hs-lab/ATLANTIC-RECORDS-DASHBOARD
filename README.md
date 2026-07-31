@@ -24,7 +24,7 @@ This project analyzes **27,800 daily chart records** to deconstruct market conce
 
 ## 🌐 Live Dashboard
 Explore the interactive data application here:  
-👉 **[Atlantic Records Interactive Dashboard](https://atlantic-records-dashboard-yptxygpywz6vhyvjwwcrfe.streamlit.app/)**
+👉 **[Atlantic Records Interactive Dashboard](https://atlantic-records-dashboard-fgen9urgaox4tmm3go8q7c.streamlit.app/)**
 
 ### Dashboard Previews
 
