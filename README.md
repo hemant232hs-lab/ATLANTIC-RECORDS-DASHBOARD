@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30508406/README.md)
 # 🎵 Atlantic Records: US Top 50 Chart Dynamics & Algorithmic Determinism
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atlantic-records-dashboard-yptxygpywz6vhyvjwwcrfe.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atlantic-records-dashboard-fgen9urgaox4tmm3go8q7c.streamlit.app/)
 
 > An end-to-end data analytics portfolio project decoding track longevity, artist market concentration, and algorithmic determinism in the contemporary music streaming industry.
 
